@@ -6,3 +6,9 @@ Para iso é necesario:
 1. Especificar as características do contorno de tarefas. 
 2. Identificar o tipo de axente para determinar a estrutura do axente.
 3. Implementar en Python os compoñentes da estrutura do axente para construir a función axente ou función mapa.
+
+## Especificar características
+
+## Identificar axente
+
+## Implementación en Python
