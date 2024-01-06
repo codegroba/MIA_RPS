@@ -1,0 +1,4 @@
+# Archivos de configuración de commitizen
+node_modules/
+package-lock.json
+package.json
