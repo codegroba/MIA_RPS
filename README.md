@@ -1,14 +1,9 @@
-# MIA_RPS Tarefa asignatura MIA:
+# Tarefa 1 MIA - RPS e RPSLS
 
-Proponse programar un axente intelixente solución ao entorno de tarefas do xogo pedra, papel, tesoiras, seguindo as directrices de modelado propostas no capítulo 2 Intelligent Agents do libro IA: A modern approach, Russell & Norvig.
+O obxectivo desta tarefa é realizar un xogo do pedra papel tesoira e o de pedra papel tesoira lagarto Spock.
 
-Para iso é necesario: 
-1. Especificar as características do contorno de tarefas. 
-2. Identificar o tipo de axente para determinar a estrutura do axente.
-3. Implementar en Python os compoñentes da estrutura do axente para construir a función axente ou función mapa.
+A tarefa plantexouse da seguinte maneira. Por un lado ao inicio do programa temos uns diccionarios nos cales incluímos as regras dos xogos. Isto fai que solo precisemos un programa para ambos xogos.
 
-## Especificar características
+Para escoller as xogadas imos empregar a librería random de Python. Cando aplicamos random sobre unha lista, podemos engadirlle pesos a cada un dos elementos da lista. Isto fai que poidamos xogar coas probabilidades de sacar unha ou outra xogada. Cos datos obtidos de xogadas anteriores imos engadir fincións que van a modificar esa probabilidade. Podremos engadir tantas estratexias como queiramos. Actualmente conta con duas.
 
-## Identificar axente
-
-## Implementación en Python
+No cartafol "doc" podemos atopar a explicación do código paso por paso.
