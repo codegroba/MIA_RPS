@@ -10,7 +10,7 @@ No cartafol "doc" podemos atopar a explicación do código paso por paso.
 
 # Instruccions:
 O programa está testeado e probado con python 3.11. Non require ningunha dependencia.
-Baixaremos o repo, accedemos ao cartafor e executaremoslo.
+Baixaremos o repo, accedemos ao cartafol e executaremolo.
 ```console
 git clone https://github.com/codegroba/MIA_RPS.git
 cd MIA_RPS/src
