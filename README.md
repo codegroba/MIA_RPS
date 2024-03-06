@@ -11,8 +11,8 @@ No cartafol "doc" podemos atopar a explicación do código paso por paso.
 # Instruccions:
 O programa está testeado e probado con python 3.11. Non require ningunha dependencia.
 Baixaremos o repo:
-´´´ bash
+```console
 git clone https://github.com/codegroba/MIA_RPS.git
 cd MIA_RPS/src
 python3 RPS.py
-´´´
+```
